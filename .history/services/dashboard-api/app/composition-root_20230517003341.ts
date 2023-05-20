@@ -1,3 +1,0 @@
-const compositionMock =()=> {
-  const dashboardApiMock
-}
